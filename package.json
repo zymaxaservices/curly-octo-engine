@@ -1,5 +1,5 @@
 {
-  "name": "curly-octo-engine",
+  "name": "starter-express-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,4 +16,7 @@
     "url": "https://github.com/cyclic-software/starter-express-api/issues"
   },
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
